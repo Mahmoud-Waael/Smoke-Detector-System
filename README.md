@@ -1,5 +1,4 @@
 # Smoke-Detector-System
-An Arduino-based smoke detection system using MQ-2 sensor , buzzer and led
 #define smoke  A0  
 #define buzzer  2  
 #define led  3 
