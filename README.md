@@ -74,7 +74,7 @@ void loop() {
 
 ## Project Image
 
-![Smoke Detector]([project_image.jpg])
+![Smoke Detector]([https://files.fm/u/p478ddchdp])
 
 ---
 
