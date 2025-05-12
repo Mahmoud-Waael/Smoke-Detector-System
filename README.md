@@ -16,15 +16,10 @@ void setup() {
   digitalWrite(led, LOW);
   digitalWrite(buzzer, LOW);
 
-
-  // put your setup code here, to run once:
-
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   data = analogRead(A0);
-
   if(data < flag){
     digitalWrite(buzzer, LOW);
     digitalWrite(led, LOW);
